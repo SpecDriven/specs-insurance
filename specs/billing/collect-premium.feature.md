@@ -36,6 +36,11 @@
 test of excalidraw
 ![diagram.excalidraw](/api/images/diagram-excalidraw-60753914.svg)
 
+|        |      |
+| ------ | ---- |
+| col1   | col2 |
+| blaaaa |      |
+
 ## Unpaid balance triggers a cancellation notice @v1 [published]
 
 - **Given** an installment still unpaid at the end of the grace period
