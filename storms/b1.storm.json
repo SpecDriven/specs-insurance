@@ -8,6 +8,13 @@
       "text": "test",
       "x": 192,
       "y": 336
+    },
+    {
+      "id": "s-d48990c6",
+      "kind": "hotspot",
+      "text": "test",
+      "x": 384,
+      "y": 336
     }
   ],
   "areas": [],
