@@ -8,6 +8,6 @@
 
 ## Safety course discount @v1 [proposed]
 
-- **Given** the rider completed an approved motorcycle safety course within the past 3 years
+![diagram.excalidraw](/api/images/diagram-excalidraw-24838e97.svg)- **Given** the rider completed an approved motorcycle safety course within the past 3 years
 - **When** the premium is calculated
 - **Then** a 10% safety-course discount is applied
