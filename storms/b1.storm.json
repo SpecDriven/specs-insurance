@@ -1,7 +1,15 @@
 {
   "format": "specdriven-event-storm/1",
   "name": "B1",
-  "stickies": [],
+  "stickies": [
+    {
+      "id": "s-eb4fcec9",
+      "kind": "event",
+      "text": "test",
+      "x": 192,
+      "y": 336
+    }
+  ],
   "areas": [],
   "arrows": []
 }
