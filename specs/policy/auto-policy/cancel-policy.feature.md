@@ -9,6 +9,13 @@
 
 [test: cancellationForNonPayment : https://github.com/SpecDriven/insurance-cap-java/blob/main/srv/src/test/java/com/acme/insurance/policy/CancelAutoPolicyTest.java#L69 ]
 
+## Exception Escalation @v1 [proposed]
+
+Under these circumstances, the case must be escalated.
+
+* When this is a VIP customer with a new car.
+* When there is a code assigned to the policy.
+
 ## Insured requests cancellation @v1 [published]
 
 - **Given** an in-force policy
