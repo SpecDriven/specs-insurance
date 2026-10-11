@@ -19,3 +19,5 @@ Route each newly opened claim to the right adjuster.
 - **Given** a newly opened claim
 - **When** the first notice of loss mentions any injury
 - **Then** the claim is assigned to a casualty adjuster regardless of the damage estimate
+
+Test 1
