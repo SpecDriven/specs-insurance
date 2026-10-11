@@ -36,10 +36,11 @@
 test of excalidraw
 ![diagram.excalidraw](/api/images/diagram-excalidraw-60753914.svg)
 
-|        |      |
-| ------ | ---- |
-| col1   | col2 |
-| blaaaa |      |
+|        |       |
+| ------ | ----- |
+| col1   | col2  |
+| blaaaa |       |
+| test 2 | test2 |
 
 ## Unpaid balance triggers a cancellation notice @v1 [published]
 
